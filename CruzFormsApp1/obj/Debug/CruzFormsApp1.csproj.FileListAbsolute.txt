@@ -1,0 +1,17 @@
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\bin\Debug\CruzFormsApp1.exe.config
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\bin\Debug\CruzFormsApp1.exe
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\bin\Debug\CruzFormsApp1.pdb
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.csproj.AssemblyReference.cache
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.Form1.resources
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.Form2.resources
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.PriceBook.resources
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.Properties.Resources.resources
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.Register.resources
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.StoreStatus.resources
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.TimeClock.resources
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.Users.resources
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.Vendors.resources
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.csproj.GenerateResource.cache
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.exe
+C:\Users\COLLEGE STUDENT\source\repos\CruzFormsApp1\CruzFormsApp1\obj\Debug\CruzFormsApp1.pdb
