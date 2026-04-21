@@ -31,18 +31,19 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.btnName = new System.Windows.Forms.Button();
+            this.tbUser = new System.Windows.Forms.TextBox();
+            this.tbPass = new System.Windows.Forms.TextBox();
+            this.btnLogin = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(186, 62);
+            this.label1.Location = new System.Drawing.Point(248, 76);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(312, 33);
+            this.label1.Size = new System.Drawing.Size(391, 42);
             this.label1.TabIndex = 0;
             this.label1.Text = "Point Of Sale System";
             // 
@@ -50,62 +51,68 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(188, 153);
+            this.label2.Location = new System.Drawing.Point(251, 188);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(96, 20);
+            this.label2.Size = new System.Drawing.Size(117, 25);
             this.label2.TabIndex = 1;
             this.label2.Text = "Username:";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(188, 239);
+            this.label3.Location = new System.Drawing.Point(251, 294);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(91, 20);
+            this.label3.Size = new System.Drawing.Size(113, 25);
             this.label3.TabIndex = 2;
             this.label3.Text = "Password:";
             // 
-            // textBox1
+            // tbUser
             // 
-            this.textBox1.Location = new System.Drawing.Point(186, 176);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(259, 20);
-            this.textBox1.TabIndex = 3;
+            this.tbUser.Location = new System.Drawing.Point(248, 217);
+            this.tbUser.Margin = new System.Windows.Forms.Padding(4);
+            this.tbUser.Name = "tbUser";
+            this.tbUser.Size = new System.Drawing.Size(344, 22);
+            this.tbUser.TabIndex = 3;
             // 
-            // textBox2
+            // tbPass
             // 
-            this.textBox2.Location = new System.Drawing.Point(186, 262);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(259, 20);
-            this.textBox2.TabIndex = 4;
+            this.tbPass.Location = new System.Drawing.Point(248, 322);
+            this.tbPass.Margin = new System.Windows.Forms.Padding(4);
+            this.tbPass.Name = "tbPass";
+            this.tbPass.Size = new System.Drawing.Size(344, 22);
+            this.tbPass.TabIndex = 4;
             // 
-            // btnName
+            // btnLogin
             // 
-            this.btnName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnName.Location = new System.Drawing.Point(345, 303);
-            this.btnName.Name = "btnName";
-            this.btnName.Size = new System.Drawing.Size(100, 30);
-            this.btnName.TabIndex = 5;
-            this.btnName.Text = "Login";
-            this.btnName.UseVisualStyleBackColor = true;
-            this.btnName.Click += new System.EventHandler(this.button1_Click);
+            this.btnLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLogin.Location = new System.Drawing.Point(460, 373);
+            this.btnLogin.Margin = new System.Windows.Forms.Padding(4);
+            this.btnLogin.Name = "btnLogin";
+            this.btnLogin.Size = new System.Drawing.Size(133, 37);
+            this.btnLogin.TabIndex = 5;
+            this.btnLogin.Text = "Login";
+            this.btnLogin.UseVisualStyleBackColor = true;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnName);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.Controls.Add(this.btnLogin);
+            this.Controls.Add(this.tbPass);
+            this.Controls.Add(this.tbUser);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -116,9 +123,9 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Button btnName;
+        private System.Windows.Forms.TextBox tbUser;
+        private System.Windows.Forms.TextBox tbPass;
+        private System.Windows.Forms.Button btnLogin;
     }
 }
 

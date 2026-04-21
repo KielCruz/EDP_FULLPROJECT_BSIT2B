@@ -16,5 +16,10 @@ namespace CruzFormsApp1
         {
             InitializeComponent();
         }
+
+        private void PriceBook_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

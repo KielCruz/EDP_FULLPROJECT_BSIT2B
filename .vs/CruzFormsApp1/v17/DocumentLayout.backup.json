@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|c:\\users\\college student\\source\\repos\\cruzformsapp1\\cruzformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\cruzformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|solutionrelative:cruzformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|c:\\users\\pcu guest\\source\\repos\\edp_fullproject_bsit2b\\cruzformsapp1\\mydatabasecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|solutionrelative:cruzformsapp1\\mydatabasecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\cruzformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|solutionrelative:cruzformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|c:\\users\\college student\\source\\repos\\cruzformsapp1\\cruzformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|c:\\users\\pcu guest\\source\\repos\\edp_fullproject_bsit2b\\cruzformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|solutionrelative:cruzformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|c:\\users\\college student\\source\\repos\\cruzformsapp1\\cruzformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|solutionrelative:cruzformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|c:\\users\\college student\\source\\repos\\cruzformsapp1\\cruzformsapp1\\storestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|solutionrelative:cruzformsapp1\\storestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|c:\\users\\college student\\source\\repos\\cruzformsapp1\\cruzformsapp1\\pricebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|solutionrelative:cruzformsapp1\\pricebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|c:\\users\\college student\\source\\repos\\cruzformsapp1\\cruzformsapp1\\vendors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|solutionrelative:cruzformsapp1\\vendors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|c:\\users\\college student\\source\\repos\\cruzformsapp1\\cruzformsapp1\\timeclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|solutionrelative:cruzformsapp1\\timeclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|c:\\users\\college student\\source\\repos\\cruzformsapp1\\cruzformsapp1\\users .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6473644-A01E-41FB-9F8B-DC35826BDB81}|CruzFormsApp1\\CruzFormsApp1.csproj|solutionrelative:cruzformsapp1\\users .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,106 +26,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TimeClock.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\TimeClock.cs",
-              "RelativeDocumentMoniker": "CruzFormsApp1\\TimeClock.cs",
-              "ToolTip": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\TimeClock.cs [Design]*",
-              "RelativeToolTip": "CruzFormsApp1\\TimeClock.cs [Design]*",
+              "DocumentIndex": 1,
+              "Title": "MYDATABASEcs.cs",
+              "DocumentMoniker": "C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\CruzFormsApp1\\MYDATABASEcs.cs",
+              "RelativeDocumentMoniker": "CruzFormsApp1\\MYDATABASEcs.cs",
+              "ToolTip": "C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\CruzFormsApp1\\MYDATABASEcs.cs",
+              "RelativeToolTip": "CruzFormsApp1\\MYDATABASEcs.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwBAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T03:03:13.469Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-21T03:33:39.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\CruzFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "CruzFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\Form1.cs [Design]*",
-              "RelativeToolTip": "CruzFormsApp1\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\CruzFormsApp1\\Form1.cs",
+              "RelativeToolTip": "CruzFormsApp1\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:04:12.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\CruzFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "CruzFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\CruzFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "CruzFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T02:41:45.69Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\CruzFormsApp1\\Form2.cs",
               "RelativeDocumentMoniker": "CruzFormsApp1\\Form2.cs",
-              "ToolTip": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\Form2.cs [Design]*",
-              "RelativeToolTip": "CruzFormsApp1\\Form2.cs [Design]*",
+              "ToolTip": "C:\\Users\\PCU GUEST\\source\\repos\\EDP_FULLPROJECT_BSIT2B\\CruzFormsApp1\\Form2.cs [Design]",
+              "RelativeToolTip": "CruzFormsApp1\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T02:52:54.139Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\Register.cs",
-              "RelativeDocumentMoniker": "CruzFormsApp1\\Register.cs",
-              "ToolTip": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\Register.cs [Design]*",
-              "RelativeToolTip": "CruzFormsApp1\\Register.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T02:58:37.569Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StoreStatus.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\StoreStatus.cs",
-              "RelativeDocumentMoniker": "CruzFormsApp1\\StoreStatus.cs",
-              "ToolTip": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\StoreStatus.cs [Design]*",
-              "RelativeToolTip": "CruzFormsApp1\\StoreStatus.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T02:59:30.323Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PriceBook.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\PriceBook.cs",
-              "RelativeDocumentMoniker": "CruzFormsApp1\\PriceBook.cs",
-              "ToolTip": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\PriceBook.cs [Design]*",
-              "RelativeToolTip": "CruzFormsApp1\\PriceBook.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T03:00:45.239Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Vendors.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\Vendors.cs",
-              "RelativeDocumentMoniker": "CruzFormsApp1\\Vendors.cs",
-              "ToolTip": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\Vendors.cs [Design]*",
-              "RelativeToolTip": "CruzFormsApp1\\Vendors.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T03:01:29.517Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Users .cs [Design]",
-              "DocumentMoniker": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\Users .cs",
-              "RelativeDocumentMoniker": "CruzFormsApp1\\Users .cs",
-              "ToolTip": "C:\\Users\\COLLEGE STUDENT\\source\\repos\\CruzFormsApp1\\CruzFormsApp1\\Users .cs [Design]*",
-              "RelativeToolTip": "CruzFormsApp1\\Users .cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T03:02:14.557Z",
               "EditorCaption": " [Design]"
             }
           ]

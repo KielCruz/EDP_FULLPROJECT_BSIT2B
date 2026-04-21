@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MySql.Data.MySqlClient;
 
 namespace CruzFormsApp1
 {
@@ -16,19 +17,58 @@ namespace CruzFormsApp1
         {
             InitializeComponent();
         }
-
-        private void label2_Click(object sender, EventArgs e)
+        MYDATABASEcs DB = new MYDATABASEcs();
+        private void Form1_Load(object sender, EventArgs e)
         {
-
+            if (DB.TestConnection() == true)
+            {
+                MessageBox.Show("Connected Successfully");
+            }
+            else 
+            {
+                MessageBox.Show("Not Connected");
+            }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        string[,] UserCredentials =
         {
-            if (btnName.Text == "")
-            { 
-            MessageBox.Show("Please enter username!", "Validation")
-                    tbUsername.Focus
+         { "Dunkin", "kiel cruz"},
+         {"banana", "karl son" }
+
+        };
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if (tbUser.Text == "")
+            {
+                MessageBox.Show("Please enter username!", "Validation");
+                tbUser.Focus();
             }
+            else if (tbPass.Text == "")
+            {
+                MessageBox.Show("Please enter password!", "Validation");
+                tbPass.Focus();
+            }
+            else
+            {
+                DataTable dt = DB.ExecuteReturnQuery("Select * from tbllogincredentials where user_username = @uname and user_password = @upass",
+                    new MySqlParameter("@uname", tbUser.Text),
+                    new MySqlParameter("@upass", tbPass.Text));
+
+
+                if (dt.Rows.Count == 1) {
+                    Form2 frm = new Form2();
+                    this.Hide();
+                    frm.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Invalid Username/Password");
+                }
+
+            }
+
+
         }
     }
 }
