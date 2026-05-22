@@ -21,5 +21,12 @@ namespace CruzFormsApp1
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Users user = new Users();
+            this.Hide();
+            user.Show();
+        }
     }
 }

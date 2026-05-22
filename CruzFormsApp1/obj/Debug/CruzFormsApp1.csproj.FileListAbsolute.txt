@@ -39,3 +39,24 @@ C:\Users\PCU GUEST\Source\Repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\bin\Debug\S
 C:\Users\PCU GUEST\Source\Repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\bin\Debug\System.Buffers.dll
 C:\Users\PCU GUEST\Source\Repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\bin\Debug\MySql.Data.xml
 C:\Users\PCU GUEST\Source\Repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzForm.F8EDEBF3.Up2Date
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.csproj.AssemblyReference.cache
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.Form1.resources
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.Form2.resources
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.PriceBook.resources
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.Properties.Resources.resources
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.Register.resources
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.StoreStatus.resources
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.TimeClock.resources
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.Users.resources
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.Vendors.resources
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.csproj.GenerateResource.cache
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.exe
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzFormsApp1.pdb
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\bin\Debug\CruzFormsApp1.exe.config
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\bin\Debug\CruzFormsApp1.exe
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\bin\Debug\CruzFormsApp1.pdb
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\aspac\source\repos\EDP_FULLPROJECT_BSIT2B\CruzFormsApp1\obj\Debug\CruzForm.F8EDEBF3.Up2Date

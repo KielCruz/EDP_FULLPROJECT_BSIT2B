@@ -51,7 +51,7 @@ namespace CruzFormsApp1
             }
             else
             {
-                DataTable dt = DB.ExecuteReturnQuery("Select * from tbllogincredentials where user_username = @uname and user_password = @upass",
+                DataTable dt = DB.ExecuteReturnQuery("Select * from tbllogin_credentials where user_username = @uname and user_password = @upass",
                     new MySqlParameter("@uname", tbUser.Text),
                     new MySqlParameter("@upass", tbPass.Text));
 
